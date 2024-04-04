@@ -3,7 +3,7 @@ env/
 venv/
 
 # Streamlit-specific files
-.streamlit/
+streamlit/
 
 # Python-related temporary files
 __pycache__/
@@ -14,7 +14,10 @@ data/
 
 # Configuration files containing secrets (replace with yours)
 secrets.toml
-.env 
+.env
+
+# Vscode
+.vscode/
 
 # OS-specific files
 .DS_Store  # macOS
