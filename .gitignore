@@ -1,0 +1,21 @@
+# Virtual environment (you'll create this locally)
+env/
+venv/
+
+# Streamlit-specific files
+.streamlit/
+
+# Python-related temporary files
+__pycache__/
+*.pyc
+
+# Data - if you're storing data locally for development
+data/
+
+# Configuration files containing secrets (replace with yours)
+secrets.toml
+.env 
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
